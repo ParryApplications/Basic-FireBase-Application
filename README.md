@@ -1,0 +1,2 @@
+# Basic-FireBase-Application
+This Application is for Beginner yesterday i uploaded an application which is quite tough to implement and understant for beginners ...so for that i uploaded this android application code by which any programmer can understand that how to make an realtime database application by saving some details of the user and i also use here some authentication work...Hope You Understand
